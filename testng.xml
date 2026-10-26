@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BasicsTrackSuite">
+    <test name="BasicsTests">
+        <classes>
+            <class name="com.demo.basics.CalculatorTest"/>
+            <class name="com.demo.basics.StudentTest"/>
+            <class name="com.demo.basics.GradeBookTest"/>
+        </classes>
+    </test>
+</suite>
